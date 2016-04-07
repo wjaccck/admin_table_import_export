@@ -1,0 +1,17 @@
+diff-match-patch 
+Django
+django-cors-headers
+django-extensions
+django-filter
+django-import-export
+django-rest-swagger
+djangorestframework
+djangorestframework-filters
+MySQL-python
+PyYAML
+setuptools
+six
+tablib
+wheel
+xlrd
+xlwt
